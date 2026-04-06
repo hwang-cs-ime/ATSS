@@ -8,13 +8,18 @@ Official PyTorch implementation of the paper: **"ATSS: Detecting AI-Generated Vi
 
 ## 📌 Introduction
 
-AI-generated videos (AIGVs) have achieved unprecedented photorealism but follow deterministic **anchor-driven trajectories** (e.g., text or image prompts). This paper identifies a distinctive forensic fingerprint termed **Anomalous Temporal Self-Similarity (ATSS)**. Unlike real videos characterized by stochastic natural dynamics, AIGVs exhibit unnaturally repetitive correlations **within and across visual and semantic domains**. Our method, **ATSS**, exploits this insight via a **triple-similarity representation** comprising visual, textual, and cross-modal trajectories, which are further **integrated with a cross-attentive fusion mechanism** to effectively distinguish AIGVs from natural sequences.
+<div align="justify">
+AI-generated videos (AIGVs) have achieved unprecedented photorealism but follow deterministic <b>anchor-driven trajectories</b> (e.g., text or image prompts). This paper identifies a distinctive forensic fingerprint termed <b>Anomalous Temporal Self-Similarity (ATSS)</b>. Unlike real videos characterized by stochastic natural dynamics, AIGVs exhibit unnaturally repetitive correlations <b>within and across visual and semantic domains</b>. Our method, <b>ATSS</b>, exploits this insight via a <b>triple-similarity representation</b> comprising visual, textual, and cross-modal trajectories, which are further <b>integrated with a cross-attentive fusion mechanism</b> to effectively distinguish AIGVs from natural sequences.
+</div>
+
+<br>
 
 <p align="center">
   <img src="Framework.png" width="800">
   <br>
   <em>Fig. 1: The overall framework of ATSS. </em>
 </p>
+
 
 ---
 
