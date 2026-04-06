@@ -2,7 +2,6 @@
 
 Official PyTorch implementation of the paper: **"ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity"**.
 
-[![Paper](https://img.shields.io/badge/TPAMI-Paper-blue)](https://github.com/hwang-cs-ime/ATSS) 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
@@ -45,7 +44,7 @@ To evaluate videos using the ATSS framework, the input data undergoes the follow
 > **Note**: The automated scripts for the sampling and extraction pipeline are currently being cleaned for release. **Coming soon!**
 
 ### 2. Testing & Evaluation
-We provide our pre-trained model weights for evaluation. You can download the checkpoint here: [**best.pt**](https://drive.google.com/file/d/1_NztgYPlBESrbaGTCFlhYdoKDVUFROEB/view?usp=sharing).
+We provide our pre-trained model weights for evaluation. You can download the checkpoint here: [**best.pt**](https://drive.google.com/drive/folders/1WLbBHn46e4hyhoSiSkLQJFtmzEuORRWF?usp=sharing).
 
 Once you have the extracted visual and textual features (in `.npy` format), run the evaluation script:
 
