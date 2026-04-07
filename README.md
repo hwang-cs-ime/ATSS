@@ -81,7 +81,7 @@ If you have any questions, please feel free to contact: cshwang@comp.polyu.edu.h
 <details>
 <summary>statistics</summary>
 
-<a href="https://info.flagcounter.com/aecG"><img src="https://s01.flagcounter.com/mini/aecG/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/aecG"><img src="https://s01.flagcounter.com/mini/aecG/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/?v=2" alt="Flag Counter" border="0"></a>
 
 </details>
 
