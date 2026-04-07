@@ -56,3 +56,33 @@ Once you have the extracted visual and textual features (in `.npy` format), run 
 ```bash
 # Evaluate on test datasets (e.g., GenVideo, EvalCrafter, VideoPhy, VidProM)
 python test.py --test_neg_path ./path_to_real_features --batch_size 256 --num_frames 8
+```
+
+
+### Citation 
+```
+@misc{wang2026atssdetectingaigeneratedvideos,
+      title={ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity}, 
+      author={Hang Wang and Chao Shen and Lei Zhang and Zhi-Qi Cheng},
+      year={2026},
+      eprint={2604.04029},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.04029}, 
+}
+```
+
+
+### Contact
+If you have any questions, please feel free to contact: cshwang@comp.polyu.edu.hk
+
+
+
+<details>
+<summary>statistics</summary>
+
+<a href="https://info.flagcounter.com/aecG"><img src="https://s01.flagcounter.com/mini/aecG/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
+
+</details>
+
+
