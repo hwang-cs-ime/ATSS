@@ -1,7 +1,7 @@
-# ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity
-
+### [ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity](https://arxiv.org/abs/2604.04029)
 Official PyTorch implementation of the paper: **"ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity"**.
 
+[![arXiv](https://img.shields.io/badge/arXiv-2604.04029-b31b1b.svg)](https://arxiv.org/abs/2604.04029)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
@@ -81,8 +81,7 @@ If you have any questions, please feel free to contact: cshwang@comp.polyu.edu.h
 <details>
 <summary>statistics</summary>
 
-<a href="https://info.flagcounter.com/aecG"><img src="https://s01.flagcounter.com/mini/aecG/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/?v=2" alt="Flag Counter" border="0"></a>
-
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=hwang-cs-ime/ATSS&label=Visitors&countColor=%2326cc71&labelStyle=upper)
 </details>
 
 
